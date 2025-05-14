@@ -5,13 +5,13 @@
 |:-----------------------------:|
 | Pipeline Du Projet |
 
-![Banner](assets/ALPR.png)
-|:-----------------------------:|
-| Exemple de Test sur l'application finale |
-
 ## Description du Projet
 
 Ce projet vise à développer un système complet de reconnaissance de plaques d'immatriculation marocaines, en se concentrant sur les aspects de détection et de reconnaissance des caractères. Le système repose sur une architecture en pipeline combinant les modèles YOLOv2, YOLOv3 en leurs variantes allégées (Tiny) pour fournir une solution robuste, rapide et adaptable aux contraintes du monde réel. Il est conçu pour être utilisé dans des contextes tels que la gestion du stationnement, la surveillance du trafic et le contrôle d'accès sécurisé.
+
+![Banner](assets/ALPR.png)
+|:-----------------------------:|
+| Exemple de Test sur l'application finale |
 
 ## Table des Matières
 
