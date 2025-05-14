@@ -4,6 +4,7 @@
 ![Banner](assets/pipeline.png)
 |:-----------------------------:|
 | Pipeline Du Projet |
+
 ![Banner](assets/ALPR.png)
 |:-----------------------------:|
 | Exemple de Test sur l'application finale |
