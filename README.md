@@ -2,7 +2,11 @@
 # Pipeline Intégré de Reconnaissance de Plaques d'Immatriculation Marocaines
 
 ![Banner](assets/pipeline.png)
+|:-----------------------------:|
+| Pipeline Du Projet |
 ![Banner](assets/ALPR.png)
+|:-----------------------------:|
+| Exemple de Test sur l'application finale |
 
 ## Description du Projet
 
